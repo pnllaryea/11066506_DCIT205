@@ -65,3 +65,8 @@ Below are screenshots of each page of the website:
 ![Screenshot (61)](https://github.com/pnllaryea/11066506_DCIT205/assets/151792787/197d5d33-8710-47d5-b835-532e6c53f908)
 ![Screenshot (60)](https://github.com/pnllaryea/11066506_DCIT205/assets/151792787/634f2915-bbc3-4d24-8596-2e44a5feee3f)
 ![Screenshot (58)](https://github.com/pnllaryea/11066506_DCIT205/assets/151792787/50c398a1-8670-4f6d-a675-6fcc55af6144)
+
+Lessons Discovered
+Throughout the course of this project's development, I received important knowledge in:
+
+Principles of web development and design. Creating a user interface that is both responsive and visually appealing. Effective information organisation and presentation. Working on a project with Git and GitHub. Conclusion Thank you for visiting the Department of Computer Science's website. Please feel free to offer criticism, report problems, or contribute to the project. Your participation is valued, and we hope you find the website educational and fun!
